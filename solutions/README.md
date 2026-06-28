@@ -13,6 +13,7 @@ What is the smallest value of b (single precision) for which one of the solution
 What is instead the correct result? (use only single precision computations)
 
 # Elementary Functions
+- Range reduction for log, exp, trig
 - Approximate sin(x) in [0, π/4) with polynomials of increasing order (Taylor, Chebyshev, Pade).
 Plot the absolute and relative error w/r/t a high precision result
 - Test  rsqrt precision in the interval [0.5, 4) 
