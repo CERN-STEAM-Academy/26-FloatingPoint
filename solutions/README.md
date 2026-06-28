@@ -25,7 +25,7 @@ How many more terms to reach correct rounding (in single precision)?
 Use double precision to compute, then round to single   
 
                                          
-# Code pitfallsand opportunity for optimization
+# Code pitfalls and opportunity for optimization
 
 
 
