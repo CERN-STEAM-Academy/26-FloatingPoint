@@ -7,8 +7,8 @@
 - Sum T(0.1) 10000 times in binary32, binary64, decimal2, decimal5. (Google for “patriot failure”)
 - Sum 10^9 positive random numbers (in range   10^-n, 10^+n )
 - Compute the average age of all humans on earth
-- Compute π as the integral of 4/(1+x2) between 0 and 1 (use float, double, simd, int, mixed)
-- Solve the equation x2 – 2bx +1 = 0 using the “high-school” formula
+- Compute π as the integral of 4/(1+x^2) between 0 and 1 (use float, double, simd, int, mixed)
+- Solve the equation x^2 – 2bx + 1 = 0 using the “high-school” formula
 What is the smallest value of b (single precision) for which one of the solution becomes 0?
 What is instead the correct result? (use only single precision computations)
 
