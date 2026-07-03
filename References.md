@@ -1,11 +1,15 @@
+# History
+- IEEE Standard 754 for Binary Floating-Point Arithmetic (1996) : https://faculty.cc.gatech.edu/~hyesoon/spr09/ieee754.pdf
+- Much Ado About Nothing's Sign bit:  https://people.freebsd.org/~das/kahan86branch.pdf
+- The Table Maker's Dilemma and Correctly-Rounded Functions: A Quick Review of 25 Years of Work : https://arith2026.org/slides/keynote_2_Muller.pdf
+
 # Basics
 - Training on floating-point computations (December 2025) by Paul Zimmermann : The IEEE 754 standard, Math Fundamentals, Core Algorithms, Elementary Function Approximation, Software Tools https://members.loria.fr/PZimmermann/talks/module1.pdf, https://members.loria.fr/PZimmermann/talks/module2.pdf https://members.loria.fr/PZimmermann/talks/module3.pdf https://members.loria.fr/PZimmermann/talks/module4.pdf https://members.loria.fr/PZimmermann/talks/module5.pdf
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic (1991)  https://dl.acm.org/doi/pdf/10.1145/103162.103163
 - Handbook of Floating-Point Arithmetic(2018)  https://link.springer.com/book/10.1007/978-3-319-76526-6
 - Elementary Functions  (2016) https://link.springer.com/book/10.1007/978-1-4899-7983-4
 - Floating-point arithmetic (2023) https://www.cambridge.org/core/journals/acta-numerica/article/floatingpoint-arithmetic/287C4D5F6D4A43FBEEB1ABED2A405AAF
-- Low Precision  (2025) https://www.siam.org/publications/siam-news/articles/mixed-precision-computing-high-accuracy-with-low-precision/
-
+ 
 # Advanced
 - Dekker’s floating point number system and compensated summation algorithms https://arxiv.org/pdf/2602.19452v1
 - A C++ Library for Augmented Arithmentic https://github.com/VinInn/TwoFloat
@@ -18,6 +22,11 @@
 - IEEE Arith Conference: https://arith2026.org/archive.html
 - FPTalks: https://fptalks.org/
 - NGT Workshop: https://indico.cern.ch/event/1538409/
+
+
+# Precision
+- Mixed/Low Precision (2025) https://www.siam.org/publications/siam-news/articles/mixed-precision-computing-high-accuracy-with-low-precision/
+-  Mixed/Low Precision (2026) https://arith2026.org/slides/keynote_1_Carson.pdf
 
 # Reproducibility
 - Keeping Science on Keel When Software Moves https://dl.acm.org/doi/pdf/10.1145/3382037
