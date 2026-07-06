@@ -27,6 +27,8 @@ Use double precision to compute, then round to single
 
                                          
 # Code pitfalls and opportunity for optimization
+- Start from code in https://godbolt.org/z/KjEjdzea9 : change compiler options, see what happens and explain. Modify the code to see how the compiler "follows"
+- Optimize the code in slide 60 
 
 
 
